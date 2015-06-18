@@ -1,0 +1,27 @@
+{
+  "name": "statsd-redis-backend",
+  "version": "0.0.1",
+  "description": "Statsd redis backend",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bazilio91/statsd-redis-backend.git"
+  },
+  "keywords": [
+    "statsd",
+    "redis"
+  ],
+  "author": "Vasiliy Ostanin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bazilio91/statsd-redis-backend/issues"
+  },
+  "homepage": "https://github.com/bazilio91/statsd-redis-backend#readme",
+  "dependencies": {
+    "lodash": "^3.9.3",
+    "redis": "^0.12.1"
+  }
+}
